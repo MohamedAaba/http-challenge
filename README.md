@@ -1,4 +1,4 @@
-# http-challenge GUESS THE NUMBER
+## http-challenge GUESS THE NUMBER
 
---create a .env file globally and add port in it then save.
---run npm install
+1--create a .env file globally and add port in it then save.<br>
+2--run npm install
